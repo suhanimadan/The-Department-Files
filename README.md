@@ -81,7 +81,7 @@ The game combines storytelling, exploration, puzzle-solving, and decision-making
 1. Clone this repository.
 
 ```
-git clone https://github.com/your-username/the-department-files.git
+git clone https://github.com/suhanimadan/the-department-files.git
 ```
 
 2. Open the project in any C++ IDE (Code::Blocks, VS Code, Dev-C++, etc.).
